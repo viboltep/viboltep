@@ -14,6 +14,9 @@
 </a>
 </p>
 
+## 🛠 Skills
+Flutter, React, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
+
 ## 🙋‍♂️ Support
 
 💙 If you like this project, give it a ⭐ and share it with friends!
