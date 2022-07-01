@@ -15,7 +15,7 @@
 </p>
 
 ## 🛠 Skills
-Flutter, React, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
+Flutter,Dart, Javascript, HTML, CSS, Firebase, MySQL, Laravel, 
 
 ## 🙋‍♂️ Support
 
@@ -26,7 +26,10 @@ Flutter, React, Dart, Javascript, HTML, CSS, Firebase, Node, MongoDB
 <!--   <a href="https://github.com/sponsors/DenverCoder1"><img alt="Sponsor with Github" title="Sponsor with Github" src="https://img.shields.io/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=github&logoColor=white"/></a> -->
 </p>
 
-[☕ Buy me a coffee](ABA: 000544939)
+[☕ Buy me a coffee]
+
+(ABA: 000544939)
+(ACLEDA: 011654236)
 
 ---
 
