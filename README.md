@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
 
-   <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="450" height="320" />
+   <img align="center" alt="GIF" src="https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png" width="450" height="320" />
   
 </p>
 
