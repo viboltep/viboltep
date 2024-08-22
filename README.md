@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Repo
 <p align="center">
 
-   <img align="center" alt="jpg" src="https://github.com/viboltep/viboltep/blob/main/assets/aural.jpg" width="450" height="320" />
+   <img align="center" alt="jpg" src="https://github.com/viboltep/viboltep/blob/main/assets/aural.jpg" />
   
 </p>
 
