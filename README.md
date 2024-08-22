@@ -1,6 +1,10 @@
 ### Hi there 👋 Welcome to my Repo
 <p align="center">
-
+  <style>
+    img {
+      border-radius: 25%;
+    }
+  </style>
    <img align="center" alt="jpg" src="https://github.com/viboltep/viboltep/blob/main/assets/aural.jpg" width="400" height="600" />
   
 </p>
