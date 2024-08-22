@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Repo
 <p align="center">
 
-   <img align="center" alt="GIF" src="https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png" width="450" height="320" />
+   <img align="center" alt="GIF" src="https://drive.google.com/drive/folders/1PSGWLJLDxWE3BYGHUQw40zXlQa29vEkE" width="450" height="320" />
   
 </p>
 
